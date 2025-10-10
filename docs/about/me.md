@@ -1,6 +1,6 @@
 # About
 
-![](./Users/swarnamanjari/Desktop/iaac/mdef-template/docs/images/profilepic.JPEG)
+![](https://github.com/swarnamanjari-chellapandi/mdef25-27/blob/main/docs/images/profilepic.jpeg)
 
 i am a creative researcher and designer with interests in design, futures and technology.
 
