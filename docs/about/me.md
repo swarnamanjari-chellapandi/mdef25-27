@@ -1,6 +1,6 @@
 # About
 
-![](../images/profilepic.JPEG)
+![](../images/profilepic.jpeg)
 
 i am a creative researcher and designer with interests in design, futures and technology.
 
