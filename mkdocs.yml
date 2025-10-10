@@ -40,6 +40,8 @@ extra:
       link: "https://github.com/"
 
 theme:
+  features:
+    - header.autohide
   name: material
   palette:
     # try other colors https://squidfunk.github.io/mkdocs-material/getting-started/#primary-colors
@@ -51,7 +53,7 @@ theme:
     code: Cutive Mono
   icon:
     logo: material/memory
-  favicon: images/favicon.svg
+  favicon: images/favicon.png
   features:
     - instant
     - navigation.expand
