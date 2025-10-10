@@ -3,7 +3,7 @@ site_name: Swarna Manjari - MDEF & Fab Lab Barcelona
 site_description: Master in Design for Emergent Futures
 site_author: Swarna Manjari
 copyright: Copyleft 2023 "Swarna Manjari" - GNU Free Documentation License
-repo_name: 'Name : Github Repo'
+repo_name: 'Name : mdef25-27'
 site_url: https://swarnamanjari-chellapandi.github.io/mdef25-27/
 repo_url: 'https://github.com/swarnamanjari-chellapandi/mdef25-27.git'
 
@@ -11,9 +11,9 @@ repo_url: 'https://github.com/swarnamanjari-chellapandi/mdef25-27.git'
 nav:
   - Home: index.md
   - About: about/me.md
-  - Master project:
+  - Designing by doing:
       - Initial ideas: project/project.md
-  - Reflections :
+  - let's keep walking :
       - Term 1:
           - Bootcamp: term1/01-Bootcamp.md
           - AoWS: term1/02-Atlas of Weak Signals.md
