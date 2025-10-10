@@ -10,15 +10,16 @@ repo_url: 'https://github.com/swarnamanjari-chellapandi/mdef25-27.git'
 
 nav:
   - Home: index.md
-  - About: about/me.md
+  - I'm thinking about...: about/me.md
   - Designing by doing:
-      - Initial ideas: project/project.md
+      - ideating: project/project.md
+  
   - let's keep walking :
-      - Term 1:
+      - spotting signals:
           - Bootcamp: term1/01-Bootcamp.md
           - AoWS: term1/02-Atlas of Weak Signals.md
 
-      - Term 2:
+      - archiving data:
           - digi: term1/01-Bootcamp.md
           - studio: term1/01-Bootcamp.md
 
@@ -28,14 +29,9 @@ nav:
 extra:
   social:
     # For other social icons at https://squidfunk.github.io/mkdocs-material/setup/adding-social-links/
-    - icon: fontawesome/brands/medium
-      link: https://medium.com/
+  
     - icon: fontawesome/brands/instagram
       link: https://instagram.com/
-    - icon: fontawesome/brands/twitter
-      link: https://twitter.com/
-    - icon: fontawesome/brands/linkedin
-      link: "https://www.linkedin.com/in/"
     - icon: fontawesome/brands/github
       link: "https://github.com/"
 
@@ -49,8 +45,8 @@ theme:
     accent: pink
   font:
     # See available fonts at https://fonts.google.com/
-    text: Be Vietnam
-    code: Cutive Mono
+    text: Baskervville
+   
   icon:
     logo: material/memory
   favicon: images/favicon.png
