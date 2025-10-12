@@ -11,9 +11,6 @@ repo_url: 'https://github.com/swarnamanjari-chellapandi/mdef25-27.git'
 nav:
   - Home: index.md
   - I'm thinking about...: about/me.md
-  - Designing by doing:
-      - ideating: project/project.md
-  
   - let's keep walking :
       - spotting signals:
           - Bootcamp: term1/01-Bootcamp.md
@@ -22,7 +19,8 @@ nav:
       - archiving data:
           - digi: term1/01-Bootcamp.md
           - studio: term1/01-Bootcamp.md
-
+  - designing by doing:
+      - ideating: project/project.md
   - currently reading :
       - books: about/books.md
 
@@ -34,9 +32,9 @@ extra:
     # For other social icons at https://squidfunk.github.io/mkdocs-material/setup/adding-social-links/
   
     - icon: fontawesome/brands/instagram
-      link: https://instagram.com/
+      link: https://www.instagram.com/swarna_manjari/
     - icon: fontawesome/brands/github
-      link: "https://github.com/"
+      link: https://github.com/swarnamanjari-chellapandi
 
 theme:
   features:
