@@ -6,4 +6,4 @@ i am a creative researcher and designer with interests in design, futures and te
 
 i love breaking down systems, drawing flow charts and reading non fiction.
 
-To find my writing on technology **[my website](https://url-blog.com)**
+To find my writing on technology, fiction and poetry **[go to my url!](https://url-blog.com)**
