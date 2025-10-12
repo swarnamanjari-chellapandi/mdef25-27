@@ -1,5 +1,5 @@
 ## Welcome
 
-![](../images/perezoso.jpg)
+![gif loading...](https://raw.githubusercontent.com/swarnamanjari-chellapandi/mdef25-27/main/docs/images/running-man.gif)
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Hello! Welcome to my digital garden. Take a walk, touch the grass or bring a book and read under the sun. Meanwhile, you can explore my thoughts if you want to and take a look at all the things I've been upto - designing and doing. 
