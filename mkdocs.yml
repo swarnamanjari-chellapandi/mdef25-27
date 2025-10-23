@@ -10,19 +10,20 @@ repo_url: 'https://github.com/swarnamanjari-chellapandi/mdef25-27.git'
 
 nav:
   - Home: index.md
-  - I'm thinking about...: about/me.md
+  - Who I am: about/me.md
   - let's keep walking :
       - spotting signals:
-          - Bootcamp: term1/01-Bootcamp.md
           - AoWS: term1/02-Atlas of Weak Signals.md
 
-      - archiving data:
-          - digi: term1/01-Bootcamp.md
-          - studio: term1/01-Bootcamp.md
+      - collecting data:  
+          - Design studio: term1/01-DesignStudio.md
+         
   - designing by doing:
       - ideating: project/project.md
   - currently reading :
       - books: about/books.md
+  - I'm thinking about : about/thoughts.md
+      
 
 
 
