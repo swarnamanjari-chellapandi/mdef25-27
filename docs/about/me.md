@@ -1,6 +1,6 @@
 # About
 
-![Image loading...](https://raw.githubusercontent.com/swarnamanjari-chellapandi/mdef25-27/main/docs/images/profilepic.jpeg)
+![Image loading...](../images/profilepic.jpeg)
 
 i am a creative researcher and designer with interests in design, futures and technology.
 
