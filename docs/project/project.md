@@ -21,4 +21,4 @@ These were some of the questions that we were asking ourselves before the three 
 
 Soon after, our conversations, readings and lectures with some hands on making gave us whole different perspective on what a prosthesis can be. 
 
-![Image loading...](https://raw.githubusercontent.com/swarnamanjari-chellapandi/mdef25-27/main/docs/images/p1front.jpg)
+![Image loading...](https://raw.githubusercontent.com/swarnamanjari-chellapandi/mdef25-27/main/docs/images/p1front(1).jpg)
