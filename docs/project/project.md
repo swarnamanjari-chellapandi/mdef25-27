@@ -23,3 +23,31 @@ Soon after, our conversations, readings and lectures with some hands-on-making g
 
 ![Image loading...](../images/p1front(1).jpg)
 
+# Reflections
+
+**I, cyborg**
+
+*Bodies: Cartoons and Cultural Deities*
+I have grown up seeing daisies talk, octopuses help out, and butterflies cook. I have grown up seeing elephant gods being mischievous, monkey gods being loyal and parrot gods being intelligent. Seeing them never felt strange. It was easy to accept their identities, their actions and even feeling empathetic towards their personalities.” I wish I could be like Daisy.” “Oswald is too friendly, she should be a little less nice.” “Butterfly is so sweet. I wish I had a friend like her.”
+Listening to mythological stories with non-human characters and watching animated versions on screen made me feel a part of their world. In a world with lesser political correctness and identity warfare, representation was not fought for. We had to accept cockroaches as annoying yappers. 
+
+However, when the characters moved towards the “human” is when social biases started baking themselves into my understanding of the world. Transgender roles were often shown through a lens of violence. Women were shown through a lens of frailty and gay men were shown through a lens of shame. Let’s not forget the roles that were never even allowed close to the screen. 
+
+Our fetishization of human identities in recent times has broadened representation and allowed human beings of various skin colours, sexual orientations, class politics and religious leanings to inhabit the media screen trying to erase our existing biases around what a socially accepted human looks like. But, what about enlarging our existing boundaries? 
+
+What makes a human, and what is more-than-human? Is there a non-human?
+
+The “Living with your Own Ideas” class centered on the design of social and functional prosthesis made me question myself within the blurry lines between bodies and identities in a search for the more-than-human. 
+
+I was trained in classical dance from a very young age. Going back to my understanding of the world when I was younger, the dance form taught me to embody various animal gods who would appear in the mythological texts. A snake, a fish, a turtle, and my most favourite: the elephant. The god Ganesha, has a human body and a giant elephant head that is highly disproportionate to his body. He makes up for it with his slightly squatted posture, a round belly and by riding on his pet mouse. When embodying, I used to flap around his huge elephant like ears, show his tusk and posture my hands to account for his round belly, all while squatting. I was asked to feel like an elephant and walk like one. Using my own limited organs, I had tried to expand the possibility of being more-than-human through movement. 
+When we were given our first brief on designing a prosthesis on being a better version of ourselves, I was stuck. I started playing with materials, and placing them on different parts of my body. I covered my elbow, my fingers and toes. I tried to make a “posture corrector”. A device for protection. The materials and requirements to be a better version informed my design decision. I created from a place of fear, and incompleteness. I wanted to be less clumsy and more careful. I forget that I could be more, rather than trying to make myself “just enough” or filling my faults. 
+
+*Movement: Limitations of materiality in technology*
+
+After a conversation with Manuel de Aguas, the intentions became clearer. Prosthesis could be a tool for exploration and not merely enhancement. As with Thomas Thwaites, I could choose to be a “goat.” Simply because I wanted to. 
+
+If the objective was to be more than human, what were the tools? The physicality of embodying another life form meant expanding our bodily functions, having abilities that we would not possess otherwise. But, what about how they feel? How do bats echolocating and hunting for food at night react when they are lost? Do they panic or do they return home?
+
+
+
+
