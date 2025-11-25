@@ -23,13 +23,6 @@ Soon after, our conversations, readings and lectures with some hands-on-making g
 
 ![Image loading...](../images/p1front(1).jpg)
 
-???+ grid  cards
-    === "1"
-        ![](../images/p1.jpg){ width="50%" }
-    === "2"
-        ![](../images/p2.jpg){ width="50%" }
-    === "3"
-        ![](../images/p3.jpg){ width="50%" }
 
 
 ## Day 1: To be the best version of myself
@@ -44,7 +37,7 @@ Knuckle protector: To use when I am chopping vegetables in the kitchen.
 
 Toes protector: To prevent myself from stubbing my toes all the time.
 
-![Image loading...](../images/p1front(1).jpg)
+[![prosthesis 1](https://img.youtube.com/vi/p6VaoSGXfSA/hqdefault.jpg)](https://www.youtube.com/watch?v=p6VaoSGXfSA)
 
 
 
@@ -53,6 +46,19 @@ Proto 2
 I also made a built in wrist band which held my T- mobilitat metro card to scan at the gates. I face a very hard time removing the card from my wallet and wallet from my bag every time I travel by the metro. I tested it to see if it saved time, and it worked like magic!
 
 I was in and out of the gates in a few seconds!
+
+???+ grid  cards
+    === "1"
+        ![](../images/p1.jpg){ width="50%" }
+    === "2"
+        ![](../images/p2.jpg){ width="50%" }
+    === "3"
+        ![](../images/p3.jpg){ width="50%" }
+
+
+|![Screen Recording](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNm15c2tqYzFtb2duYnJveWZuZmk4YmYzcGwwMWZhZm0xMWpkdGgzdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Ko3zUJo2E5VSKgt2Eh/giphy.gif)|
+
+
 
 
 
