@@ -21,7 +21,6 @@ These were some of the questions that we were asking ourselves before the three 
 
 Soon after, our conversations, readings and lectures with some hands-on-making gave us a whole different perspective on what a prosthesis could be. 
 
-![Image loading...](../images/p1front(1).jpg)
 
 
 
@@ -47,16 +46,12 @@ I also made a built in wrist band which held my T- mobilitat metro card to scan 
 
 I was in and out of the gates in a few seconds!
 
-???+ grid  cards
-    === "1"
-        ![](../images/p1.jpg){ width="50%" }
-    === "2"
-        ![](../images/p2.jpg){ width="50%" }
-    === "3"
-        ![](../images/p3.jpg){ width="50%" }
+| # | Front | Side  | Lateral |
+| :--- | :--- | :--- |
+|  ![](../images/p1.jpg){ width="50%" }|  ![](../images/p1.jpg){ width="50%" } |  ![](../images/p1.jpg){ width="50%" } | 
 
 
-|![Screen Recording](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNm15c2tqYzFtb2duYnJveWZuZmk4YmYzcGwwMWZhZm0xMWpkdGgzdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Ko3zUJo2E5VSKgt2Eh/giphy.gif)|
+![Screen Recording](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNm15c2tqYzFtb2duYnJveWZuZmk4YmYzcGwwMWZhZm0xMWpkdGgzdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Ko3zUJo2E5VSKgt2Eh/giphy.gif)
 
 
 
@@ -86,6 +81,12 @@ When we were given our first brief on designing a prosthesis on being a better v
 After a conversation with Manuel de Aguas, the intentions became clearer. Prosthesis could be a tool for exploration and not merely enhancement. As with Thomas Thwaites, I could choose to be a “goat.” Simply because I wanted to. 
 
 If the objective was to be more than human, what were the tools? The physicality of embodying another life form meant expanding our bodily functions, having abilities that we would not possess otherwise. But, what about how they feel? How do bats echolocating and hunting for food at night react when they are lost? Do they panic or do they return home?
+
+Thomas Thwaites spoke to a shaman before deciding to be a goat. He earlier wanted to become an elephant. She said it would not be too easy to embody an elephant, something that lives far from Thomas’ habitat. Also, elephants were highly emotionally intelligent animals. To embody them would mean impersonating their emotions, going into depressive episodes, mourn for the dead etc. Thomas wanted to take a break from being human. Elephants were too close to our human mental models. The shaman suggested he become something closer to him and easier to replicate. If we were to design exo-organs on a human to become a goat, we would have to reproduce the physical functions of one. In the process, Thomas built prosthesis for walking on four legs, a sac of rumen to digest grass and even a helmet to butt into other goats’ heads. He even spent 3 days in the mountains wandering with a herd of goats. They invited him into their herd and locked horns. After 3 days, tired and exhausted, Thomas was left behind by the herd purely because of the physical limitations. 
+
+I asked Thomas a question at the end of his presentation. After all the work on the prosthetics, adorning them and playing around with how they worked, did it make you feel more human than a goat?
+
+He said he was tired, exhausted and definitely wished he could sleep on a comfortable bed. I remembered my ways of embodying animals through movement and dance. Could a prosthesis limit our ability to transform to a replica of an existing organism? Could a prosthesis simply be a portal to exploring our own body to extents that it could never imagine itself in?
 
 
 
