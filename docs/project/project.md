@@ -23,6 +23,39 @@ Soon after, our conversations, readings and lectures with some hands-on-making g
 
 ![Image loading...](../images/p1front(1).jpg)
 
+???+ grid  cards
+    === "1"
+        ![](../images/p1.jpg){ width="50%" }
+    === "2"
+        ![](../images/p2.jpg){ width="50%" }
+    === "3"
+        ![](../images/p3.jpg){ width="50%" }
+
+
+## Day 1: To be the best version of myself
+
+**Proto 1**
+
+For the first exercise, I started fitting objects at multiple parts of my body. I experimented with my ears, my knees, knuckles and elbows. I then went towards a quality of myself that I wanted to work on: clumsiness.
+
+I built joint protectors for my knuckles and toes. 
+
+Knuckle protector: To use when I am chopping vegetables in the kitchen.
+
+Toes protector: To prevent myself from stubbing my toes all the time.
+
+![Image loading...](../images/p1front(1).jpg)
+
+
+
+Proto 2
+
+I also made a built in wrist band which held my T- mobilitat metro card to scan at the gates. I face a very hard time removing the card from my wallet and wallet from my bag every time I travel by the metro. I tested it to see if it saved time, and it worked like magic!
+
+I was in and out of the gates in a few seconds!
+
+
+
 # Reflections
 
 **I, cyborg**

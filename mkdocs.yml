@@ -40,7 +40,14 @@ extra:
 theme:
   features:
     - header.autohide
+
   name: material
+
+  features:
+    - content.tabs
+    - content.grid
+
+  
   palette:
     # try other colors https://squidfunk.github.io/mkdocs-material/getting-started/#primary-colors
     primary: yellow
