@@ -3,9 +3,9 @@ hide:
     - toc
 ---
 
-# Living with your own ideas
+## Living with your own ideas
 
-Prosthesis:
+# Prosthesis:
 
 What is a prosthesis?
 
@@ -40,18 +40,60 @@ Toes protector: To prevent myself from stubbing my toes all the time.
 
 
 
-Proto 2
+**Proto 2**
 
 I also made a built in wrist band which held my T- mobilitat metro card to scan at the gates. I face a very hard time removing the card from my wallet and wallet from my bag every time I travel by the metro. I tested it to see if it saved time, and it worked like magic!
 
 I was in and out of the gates in a few seconds!
 
-| # | Front | Side  | Lateral |
-| :--- | :--- | :--- |
-|  ![](../images/p1.jpg){ width="50%" }|  ![](../images/p1.jpg){ width="50%" } |  ![](../images/p1.jpg){ width="50%" } | 
+=== "Image Grid"
 
+    ???+ grid
+        === ":material-image: "
+            ![](../images/p1.jpg)
+        === ":material-image: "
+            ![](../images/p2.jpg)
+        === ":material-image: "
+            ![](../images/p3.jpg)
 
 ![Screen Recording](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNm15c2tqYzFtb2duYnJveWZuZmk4YmYzcGwwMWZhZm0xMWpkdGgzdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Ko3zUJo2E5VSKgt2Eh/giphy.gif)
+
+
+## Day 2: To become something else
+
+For the second exercise I experimented with movement. How could my movement aid my prosthesis?
+
+To become something else, I needed to erase my thoughts and my persona from the picture. One of the most common expressions of ourselves is through speech and the sounds we make. I decided to incorporate sound in my prosthesis so that it could make me listen more to my surroundings than speak. 
+
+I mimicked the sounds of chirping crickets by dangling a few small bells from the edge of a string tied to a toothpick. The jingles sounded like insects in a forest. 
+
+## Day 3: The Double Game by Sophie Calle
+
+# I, the detective?
+
+I was to be followed. It was an experiment. How would the person following me interpret my behaviour? How would I act with the knowledge that I’m being followed?
+
+I turned around the experiment. 
+
+I chose to let my detective into my personal space: a public park that I mostly go to free my thoughts when I have classes. I go there to sit under the trees and take a break. I sometimes sketch, and sometimes observe the dogs play. This time, I chose to write and tested if the detective was actively observing my observations while I was writing a personal narrative poem which invoked my emotions. It was a staged performance, where I, the artist, used the medium of my art to express what I was feeling; not through the art itself but through the process of making it. 
+
+**Beginning:**
+
+I walk to the nearby park. I turn around to see if anyone is following me. I sense some movement but see no one. I continue walking and enter the park. I look to the right - my favourite spot is already taken. I move towards a bench that is well visible. This should be a good stage for my performance. 
+
+(One mistake that I realised later was that I faced away from my detective. She couldn't see any of my expressions.) 
+
+**Middle:**
+
+I start writing my poem. It’s about yearning, loss and doubt. I repeat some sentences again and again. The poem is itself about performance. Performing for someone on social media, and I don’t know if they are watching me or not. 
+
+Initially I feel conscious about my detective watching me write. The words struggle to come out my text editor. As I take some time, I’m used to being observed and I forget my surroundings. I get into my space of writing where I am alone with no one to disturb. 
+
+I finish the last line. I almost tear up.
+
+**End:**
+
+I pack my bags and walk. My legs struggle to carry the weight of my thoughts. It takes some time for me to exit my writing space and come back to my surroundings. The walk helps a bit. I stare at the traffic lights. I wait for them to turn green. I take it slowly one step at a time. As I enter the university campus, I see someone running behind me. My detective attempts to click one last picture. 
 
 
 
