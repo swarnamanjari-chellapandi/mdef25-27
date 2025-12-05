@@ -12,9 +12,9 @@ hide:
 ![Image loading...](../images/flatlay.png)
 
 ## How did we do it?
-**[Peek into our process](https://hackmd.io/6bpTeFL1R0aKpRyyVLhDWw)**
+**[Peek into our process - The Forensic Report](https://hackmd.io/6bpTeFL1R0aKpRyyVLhDWw)**
 
-![prosthesis 1](https://youtu.be/Rxf9oHnP9bQ)
+[![Unpacking Timelapse](https://img.youtube.com/vi/Rxf9oHnP9bQ/hqdefault.jpg)](https://www.youtube.com/watch?v=Rxf9oHnP9bQ)
 
 
 # reflections
@@ -28,6 +28,10 @@ As we unpacked I couldn’t help observing the projection of our human biology t
 
 # A zine about machines made by imagination
 
+**[We made ..A Moody Elevator..](https://docs.google.com/presentation/d/11_xS_0ml6C-zfL2LV7qfNxleFGUzB8D4UYblDZbepPM/edit?usp=drive_link)**
+
+**[watch the video here](https://drive.google.com/file/d/1nTU3J4Txr2c1WM4LEtSBieTEbGRmzlj4/view?usp=sharing)**
+
 ![Image loading...](../images/1.png)
 ![Image loading...](../images/2.png)
 ![Image loading...](../images/3.png)
@@ -37,8 +41,5 @@ As we unpacked I couldn’t help observing the projection of our human biology t
 ![Image loading...](../images/7.png)
 ![Image loading...](../images/8.png)
 
-**[We made ..A Moody Elevator..](https://docs.google.com/presentation/d/11_xS_0ml6C-zfL2LV7qfNxleFGUzB8D4UYblDZbepPM/edit?usp=drive_link)**
-
-**[watch the video here](https://drive.google.com/file/d/1nTU3J4Txr2c1WM4LEtSBieTEbGRmzlj4/view?usp=sharing)**
-
+Thank you!! Cheers to simply Moody machines!
 
