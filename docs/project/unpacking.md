@@ -3,13 +3,18 @@ hide:
     - toc
 ---
 
-## Unpacking Tech Systems
+# Unpacking Tech Systems
 
-We went from this 
+## We went from this 
 ![Image loading...](../images/3dprinter.png)
 
-To this!
+## To this!
 ![Image loading...](../images/flatlay.png)
+
+## How did we do it?
+**[Peek into our process](https://hackmd.io/6bpTeFL1R0aKpRyyVLhDWw)**
+
+![prosthesis 1](https://youtu.be/Rxf9oHnP9bQ)
 
 
 # reflections
@@ -31,3 +36,5 @@ As we unpacked I couldn’t help observing the projection of our human biology t
 ![Image loading...](../images/6.png)
 ![Image loading...](../images/7.png)
 ![Image loading...](../images/8.png)
+
+**[We made ..A Moody Elevator..](https://docs.google.com/presentation/d/11_xS_0ml6C-zfL2LV7qfNxleFGUzB8D4UYblDZbepPM/edit?usp=drive_link)**
