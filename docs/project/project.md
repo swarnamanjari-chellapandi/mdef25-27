@@ -130,6 +130,8 @@ I asked Thomas a question at the end of his presentation. After all the work on 
 
 He said he was tired, exhausted and definitely wished he could sleep on a comfortable bed. I remembered my ways of embodying animals through movement and dance. Could a prosthesis limit our ability to transform to a replica of an existing organism? Could a prosthesis simply be a portal to exploring our own body to extents that it could never imagine itself in?
 
+--- fin.
+
 
 
 
