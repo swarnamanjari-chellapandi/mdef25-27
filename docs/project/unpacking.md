@@ -5,10 +5,10 @@ hide:
 
 # Unpacking Tech Systems
 
-## We went from this 
+### We went from this... 
 ![Image loading...](../images/3dprinter.png)
 
-## To this!
+### To this!
 ![Image loading...](../images/flatlay.png)
 
 ## How did we do it?
