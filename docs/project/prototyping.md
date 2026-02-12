@@ -1,6 +1,6 @@
 # Cognitive orgies
 
-![Brainstorming](https://youtu.be/_AABef-bYOM)
+[![brainstorming](https://img.youtube.com/vi/_AABef-bYOM/hqdefault.jpg)](https://www.youtube.com/watch?v=_AABef-bYOM)
 
 On the first day of brainstorming and presentation, I struggled to connect my conceptual framework with physical prototyping ideas. By the end, I realised that prototyping is a key part of the ideating process itself, and you come back to the other simultaneously in a loop. This weeks' Cognitive Orgies session taught me to trust my gut, rework the core message and simply carry on with the process. 
 
@@ -27,7 +27,7 @@ The second and third days were especially challenging with the coding. Plugging 
 
 As a writer myself, I have a disdain for using AI to help write or generate any type of design ideas. Coding is the only thing that I use AI for. However, I would've not been able to code with this much fidelity, had I not solicited help from other documentations and the mentors from Fablab. A combination of reading code from other websites and human help along with ChatGPT made it a great learning experience. I enjoyed learning the logic of how a simple program operated and how I could build on it to make a more complex one. Just making two microcontrollers communicate to each other using a simple protocol was magical enough. Adding lights, sound and other elements to the whole setup made the process even more rewarding. 
 
-![Everything works together!](https://youtu.be/9l3sGrjstQg)
+[![Everything works together!](https://img.youtube.com/vi/9l3sGrjstQg/hqdefault.jpg)](https://www.youtube.com/watch?v=9l3sGrjstQg)
 
 ## Challenges and Room for improvement
 
