@@ -19,10 +19,11 @@ nav:
           - Design studio: term1/01-DesignStudio.md
          
   - designing by doing:
-      - ideating: project/prototyping.md
+      - ideating: project/ideating.md
       - unpacking: project/unpacking.md
       - fabricating: project/fabricating.md
       - extending: project/extending.md
+      - prototyping: project/prototyping.md
   - currently reading :
       - books: about/books.md
   - I'm thinking about : about/thoughts.md
