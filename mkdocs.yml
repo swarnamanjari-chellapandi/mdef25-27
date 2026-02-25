@@ -14,7 +14,7 @@ nav:
   - let's keep walking :
       - spotting signals:
           - AoWS: term1/02-Atlas of Weak Signals.md
-      - spotting signals:
+
           - publishing: term1/01-publication.md
       
   - designing by doing:
@@ -23,6 +23,7 @@ nav:
       - fabricating: project/fabricating.md
       - extending: project/extending.md
       - prototyping: project/prototyping.md
+      - publishing: term1/01-publication.md
   - currently reading :
       - books: about/books.md
   - I'm thinking about : about/thoughts.md

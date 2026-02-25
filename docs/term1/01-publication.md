@@ -3,6 +3,18 @@ hide:
     - toc
 ---
 
-# Bootcamp
+# Publication Draft
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+For my inspiration of the publication I had intitally thought of a zine which showcases different frames of my game. A frame by frame animation of the game without words. As I started experimenting, I realised that I wanted my publication to look like the storyboard behind the animation; a behind the scenes of sorts. Taking inspiration from animation timelines and storybords with notes, arrow and scribbles, I designed the draft of my publication.
+
+![Image loading...](../images/page1.jpg)
+![Image loading...](../images/page2.jpg)
+![Image loading...](../images/page3.jpg)
+![Image loading...](../images/page4.jpg)
+
+
+# Peer Review
+
+I reviewed Hannah Peevy's work with AI and design that consisted of playfulness yet used metaphors to explain complex concepts.
+
+![Image loading...](../images/snapshot.png)
