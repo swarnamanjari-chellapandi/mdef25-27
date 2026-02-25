@@ -14,9 +14,8 @@ nav:
   - let's keep walking :
       - spotting signals:
           - AoWS: term1/02-Atlas of Weak Signals.md
-
-      - collecting data:  
-          - Design studio: term1/01-DesignStudio.md
+      - publishing findings:
+          - publication: term1/01-publication.md
          
   - designing by doing:
       - ideating: project/ideating.md
