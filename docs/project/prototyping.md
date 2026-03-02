@@ -4,6 +4,8 @@
 
 On the first day of brainstorming and presentation, I struggled to connect my conceptual framework with physical prototyping ideas. By the end, I realised that prototyping is a key part of the ideating process itself, and you come back to the other simultaneously in a loop. This weeks' Cognitive Orgies session taught me to trust my gut, rework the core message and simply carry on with the process. 
 
+![Image loading...](../images/root.avif)
+
 We set out to do the impossible: map the roots of a tree underground. 
 
 **[Echoes of Earth - Documentation](https://www.hackster.io/544134/echoes-of-earth-099b88)**
