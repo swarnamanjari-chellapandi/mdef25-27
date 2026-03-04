@@ -54,5 +54,25 @@ Through these three artefacts of rest and rebellion, we activated a post capital
 
 ## Connecting weak signals to my research
 
+ **Signals**
+ 
+ *Interesting how we've always played with physical geography as a symbol of hierarchy*
+
+ *where is internet?*
+
+ *talking about how waters arrive in the cities/villages*
+
+ *Thinking about what this big pipe in the side of the paved walk is made from, maybe from some "scraps" of works that they re doing here? Could easily build something useful from it*
+
+*do you know where you water comes from???*
+
+*love the contrast of gray cement to green plants*
+
+
+More than looking at the signals in isolation I would like to connect it to my research through their underlying meanings in connection to each other. 
+
+The first half of the semester I was researching undergound water infrastructures and how they transferred resources across the city. I reimagined underground worlds as memory industries and used the system as a metaphor for how information travels across.
+
+In the second term, I am taking a closer look at data centers as a centralised archive of human memory and how they require so many resources like land, water and electricity to be maintained. I am also questioning the hierarchies these structures encode within themselves as places of importance. I even compare these spaces to cathedrals because as a machine landscape that stands in stark contrast with nature, they echo the blind faith we have in these black boxes. Thus the above mentioned signals serve as a poetic and conceptual inspiration that ties into my research. And personally for me, that his how weak signals work; not as facts to follow but as sparks of interest and inspiration. 
 
 
