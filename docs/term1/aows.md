@@ -5,7 +5,7 @@ hide:
 
 # Atlas of Weak Signals
 
-What I found fascinating about our first exercise with the atlas of weak signals, was the rootedness of the exercise. I have hunted sugnals for as far as I can remember, unconsciously. My blurting out of random trivia at dinner tables and conversations over coffee has earned me some weird stares and light hearted laughs. 
+What I found fascinating about our first exercise with the atlas of weak signals, was the rootedness of the exercise. I have hunted signals for as far as I can remember, unconsciously. My blurting out of random trivia at dinner tables and conversations over coffee has earned me some weird stares and light hearted laughs. 
 
 "Did you know that spinach could send emails?" my statement was answered with silence. 
 
@@ -16,7 +16,7 @@ Only here, was it observed with awe and surprise. Really? I would love to know m
 
 ## Activity 
 
-We were asked to pick a set of wecards, random triggers and areas of opportunity. From this, we had to devlop a scenario that would lead to a new weak signal. 
+We were asked to pick a set of cards, random triggers and areas of opportunity. From this, we had to devlop a scenario that would lead to a new weak signal. 
 
 *Cards picked*
 
