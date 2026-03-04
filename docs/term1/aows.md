@@ -58,7 +58,11 @@ Through these three artefacts of rest and rebellion, we activated a post capital
  
  *Interesting how we've always played with physical geography as a symbol of hierarchy*
 
+ I have always been interested in exploring architecture as representational of order, control and power. In my research, I explore the machinic landscapes of data centres as cathedrals of power. 
+
  *where is internet?*
+
+ Deconstructing the physical materiality of the digital internet has been one of the core themes of my research.
 
  *talking about how waters arrive in the cities/villages*
 
@@ -66,7 +70,13 @@ Through these three artefacts of rest and rebellion, we activated a post capital
 
 *do you know where you water comes from???*
 
+ The journey of water from source to sink is something I explored last semester and still resonates with me as to how we are aware of the resources we consume and the story that lies behind them This was a driving force behind my game for the Design Dialogues. 
+
 *love the contrast of gray cement to green plants*
+
+What happens when industrial machine landscapes and nature have to coexist? Is it symbiosis or parasitis?
+
+**Connected Research**
 
 
 More than looking at the signals in isolation I would like to connect it to my research through their underlying meanings in connection to each other. 
