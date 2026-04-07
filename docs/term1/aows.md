@@ -31,7 +31,7 @@ We were asked to pick a set of cards, random triggers and areas of opportunity. 
 [![signal](https://img.youtube.com/vi/0VJFyfiYXVs/hqdefault.jpg)](https://www.youtube.com/watch?v=0VJFyfiYXVs)
 
 
-## Classroom game (9.12.25)
+## SESSION 1 (9.12.25)
 
 These cards give a nice ground for brainstorming novel concepts at the fringes, emerging from the weak signals of change. 
 
@@ -85,4 +85,20 @@ The first half of the semester I was researching undergound water infrastructure
 
 In the second term, I am taking a closer look at data centers as a centralised archive of human memory and how they require so many resources like land, water and electricity to be maintained. I am also questioning the hierarchies these structures encode within themselves as places of importance. I even compare these spaces to cathedrals because as a machine landscape that stands in stark contrast with nature, they echo the blind faith we have in these black boxes. Thus the above mentioned signals serve as a poetic and conceptual inspiration that ties into my research. And personally for me, that his how weak signals work; not as facts to follow but as sparks of interest and inspiration. 
 
+## SESSION 2 (10.03.26)
 
+# New Weak Signals
+
+![Image loading...](../images/signal1.png)
+
+![Image loading...](../images/signal2.png)
+
+![Image loading...](../images/signal3.png)
+
+# Random triggers
+
+![Image loading...](../images/trigger.png)
+
+# Opportunities
+
+![Image loading...](../images/opps.png)
